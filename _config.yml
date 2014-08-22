@@ -2,8 +2,8 @@ title:            Balzac
 tagline:          A beautiful theme.
 description:      Insouciant.
 #Comment out url when working locally to resolve base urls correctly
-#url: 
-
+url: http://snowdj.github.io/Balzac-for-Jekyll
+files: http://snowdj.github.io/Balzac-for-Jekyll/files
 # Owner/author information
 owner:
   name:           Cole Townsend
