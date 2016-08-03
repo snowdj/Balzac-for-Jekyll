@@ -3,31 +3,53 @@ tagline:          A beautiful theme.
 description:      Insouciant.
 #Comment out url when working locally to resolve base urls correctly
 url: http://snowdj.github.io/balzac01
+<<<<<<< HEAD
 # files: http://snowdj.github.io/Balzac-for-Jekyll
 
 
+=======
+#url:              http://snowdj.github.io/balzac
+>>>>>>> origin/master
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           snowdj
   avatar:         avatar.png
+<<<<<<< HEAD
   bio:            "Insouciant"
   email:          cole@coletownsend.com
+=======
+  bio:            "Aesthete & Athlete"
+  email:          snowdj@gmail.com
+  twitter:        snowdj
+  github:         snowdj
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  disqus:         snowdj
+  #location:       "Buffalo, NY"
+>>>>>>> origin/master
   # Plug in your disqus shortname!
-  
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Artical
+    url: /artical
+  - title: Review
+    url: /review
   - title: About
     url: /about
   - title: Donate
     url: http://gtat.me/balzac/donate
     external: true
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/snowdj/balzac01
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Who?
+    url: http://snowdj.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -44,11 +66,14 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+sass:
+    style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
