@@ -42,9 +42,9 @@ links:
     url: /review
   - title: About
     url: /about
-  - title: Donate
-    url: http://gtat.me/balzac/donate
-    external: true
+#  - title: Donate
+#    url: http://gtat.me/balzac/donate
+#    external: true
   - title: Github
     url: https://github.com/snowdj/balzac01
     external: true
