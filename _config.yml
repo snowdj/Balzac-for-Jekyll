@@ -28,9 +28,9 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Artical
-    url: /articals
-  - title: Review
+  - title: Articles
+    url: /articles
+  - title: Reviews
     url: /reviews
   - title: About
     url: /about
