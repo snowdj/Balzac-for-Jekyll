@@ -1,14 +1,20 @@
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
+<<<<<<< HEAD
 #Comment out url when working locally to resolve base urls correctly
 url: http://snowdj.github.io/balzac01
 #url:              http://snowdj.github.io/balzac
+=======
+canonical: http://jekyll.gtat.me
+
+>>>>>>> upstream/master
 # Owner/author information
 owner:
   name:           snowdj
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
+<<<<<<< HEAD
   email:          snowdj@gmail.com
   twitter:        snowdj
   github:         snowdj
@@ -16,11 +22,24 @@ owner:
   #dribbble:       coletownsend
   disqus:         snowdj
   #location:       "Buffalo, NY"
+=======
+  email:          cole@coletownsend.com
+  twitter:        twnsndco
+  github:         coletownsend
+  instagram:      ctrunsthis
+  dribbble:       coletownsend
+  disqus:         balzac
+  location:       "Buffalo, NY"
+>>>>>>> upstream/master
   # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
 
 # Links to include in top navigation
 # For external links add external: true
@@ -41,7 +60,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 kramdown:
