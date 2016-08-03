@@ -1,12 +1,11 @@
 title:            Balzac
 tagline:          A beautiful theme.
-<<<<<<< HEAD
 description:      Insouciant.
 #Comment out url when working locally to resolve base urls correctly
 url: http://snowdj.github.io/balzac01
 
 # files: http://snowdj.github.io/Balzac-for-Jekyll
-=======
+
 description:      Describe your website.
 
 #Comment out url when working locally to resolve base urls correctly
@@ -14,8 +13,6 @@ url: http://snowdj.github.io/balzac01
 #url:              http://snowdj.github.io/balzac
 
 #canonical: http://jekyll.gtat.me
-
->>>>>>> origin/master
 
 # Owner/author information
 owner:
