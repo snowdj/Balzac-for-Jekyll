@@ -3,19 +3,13 @@ tagline:          A beautiful theme.
 description:      Insouciant.
 #Comment out url when working locally to resolve base urls correctly
 url: http://snowdj.github.io/balzac01
-<<<<<<< HEAD
+
 # files: http://snowdj.github.io/Balzac-for-Jekyll
 
-
-=======
-#url:              http://snowdj.github.io/balzac
->>>>>>> origin/master
 # Owner/author information
 owner:
   name:           snowdj
   avatar:         avatar.png
-
-=======
   bio:            "Aesthete & Athlete"
   email:          snowdj@gmail.com
   twitter:        snowdj
@@ -47,7 +41,7 @@ links:
     url: https://github.com/snowdj/balzac01
     external: true
   - title: Who?
-    url: http://snowdj.github.io
+    url: http://snowdj.github.io/balzac01
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
