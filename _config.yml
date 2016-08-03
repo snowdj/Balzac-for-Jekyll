@@ -1,9 +1,9 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Prose
+tagline:          A beautiful theme for Prose.
+description:      Learn, think, and action.
 
 #Comment out url when working locally to resolve base urls correctly
-url: http://snowdj.github.io/balzac01
+url: http://snowdj.github.io/prose
 #url:              http://snowdj.github.io/balzac
 
 #canonical: http://jekyll.gtat.me
@@ -13,7 +13,7 @@ url: http://snowdj.github.io/balzac01
 owner:
   name:           snowdj
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            "Economics & Econometrics"
   email:          snowdj@gmail.com
   twitter:        snowdj
   github:         snowdj
@@ -42,10 +42,10 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/snowdj/balzac01
+    url: https://github.com/snowdj/prose
     external: true
   - title: Who?
-    url: http://snowdj.github.io/balzac01
+    url: http://snowdj.github.io/prose
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
