@@ -17,8 +17,8 @@ owner:
   #instagram:      ctrunsthis
   #dribbble:       coletownsend
   disqus:         snowdj
-  #location:       "Buffalo, NY"
->>>>>>> origin/master
+  location:       "Buffalo, NY"
+
   # Plug in your disqus shortname!
 
 tools:
