@@ -29,9 +29,9 @@ tools:
 # For external links add external: true
 links:
   - title: Artical
-    url: /artical
+    url: /articals
   - title: Review
-    url: /review
+    url: /reviews
   - title: About
     url: /about
 #  - title: Donate
