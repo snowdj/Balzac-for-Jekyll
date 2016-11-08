@@ -1,9 +1,9 @@
-title:            Prose
-tagline:          A beautiful theme for Prose.
+title:            Balzac
+tagline:          A beautiful theme for Writing.
 description:      Learn, think, and action.
 
 #Comment out url when working locally to resolve base urls correctly
-url: http://snowdj.github.io/prose
+url: http://snowdj.github.io/balzac
 #url:              http://snowdj.github.io/balzac
 
 #canonical: http://jekyll.gtat.me
@@ -41,8 +41,8 @@ links:
     url: /reviews
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/snowdj/prose
+#  - title: Github
+#    url: https://github.com/snowdj/prose
     external: true
   - title: Who?
     url: http://snowdj.github.io/prose
