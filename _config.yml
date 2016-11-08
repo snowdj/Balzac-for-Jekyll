@@ -2,7 +2,7 @@ title:            Balzac
 tagline:          A beautiful theme.
 description:      Insouciant.
 #Comment out url when working locally to resolve base urls correctly
-url: http://snowdj.github.io/prose
+url: http://snowdj.github.io/balzac
 
 # files: http://snowdj.github.io/Balzac-for-Jekyll
 
@@ -45,9 +45,9 @@ links:
 #  - title: Donate
 #    url: http://gtat.me/balzac/donate
 #    external: true
-  - title: Github
-    url: https://github.com/snowdj/prose
-    external: true
+#  - title: Github
+#    url: https://github.com/snowdj/prose
+#    external: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
